@@ -172,6 +172,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -365,6 +366,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="810" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578126329995" />
+    <state x="437" y="56" key="CommitChangelistDialog2" timestamp="1578228874114">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="437" y="56" key="CommitChangelistDialog2/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1578228874114" />
     <state x="855" y="525" key="FileChooserDialogImpl" timestamp="1578228762020">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -407,6 +412,10 @@
     <state x="640" y="347" key="com.intellij.ide.util.TipDialog/1920.0.1920.1046/0.0.1920.1046@0.0.1920.1046" timestamp="1578118498651" />
     <state x="640" y="348" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1578143675094" />
     <state x="1920" y="0" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1578125834328" />
+    <state x="2660" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578228935063">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1050/0.0.1920.1050@1920.0.1920.1050" timestamp="1578228935063" />
     <state x="659" y="215" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578136010319">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
